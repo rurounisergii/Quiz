@@ -1,5 +1,5 @@
 
-A Quiz System 
+
 The  Quiz GUI is made using Java Swing. The client and server interact using RMI. Unit tests written with JUnit
 
 The Quiz can be launched by running the ServerLauncher.java class in the Quiz.src.server package to set up the server
